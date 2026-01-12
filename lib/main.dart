@@ -62,7 +62,7 @@ class LoginPage extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Image.asset(
-                      'assets/images/tumblr_login.png',
+                      'assets/images/path_logo.png',
                       width: 120,
                       height: 120,
                       fit: BoxFit.contain,
